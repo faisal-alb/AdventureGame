@@ -1,0 +1,16 @@
+zeus-bolt
+Zeus' Lightning Bolt:Harness the power of Zeus. (Easter Egg Item, No Real Value).
+health-potion
+a Health Potion:A magical potion that restores some of your Health.
+strength-potion
+a Strength Potion:A magical potion that gives you the required strength to keep going.
+burger
+a Hamburger:Tastes nice and is good for staying full.
+lemon
+a Lemon:Great for increasing your hunger and strength, however the acidity could harm you...
+paper1
+a Piece of Paper:The first part of the code is 'adv'
+paper2
+a Piece of Paper:The second part of the code is 'ent'
+paper3
+Piece of Paper:The third part of the code is 'ure'

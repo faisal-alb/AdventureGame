@@ -1,0 +1,14 @@
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\bin\Debug\net8.0\AdventureGame.exe
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\bin\Debug\net8.0\AdventureGame.deps.json
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\bin\Debug\net8.0\AdventureGame.runtimeconfig.json
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\bin\Debug\net8.0\AdventureGame.dll
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\bin\Debug\net8.0\AdventureGame.pdb
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\obj\Debug\net8.0\AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\obj\Debug\net8.0\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\obj\Debug\net8.0\AdventureGame.AssemblyInfo.cs
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\obj\Debug\net8.0\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\obj\Debug\net8.0\AdventureGame.dll
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\obj\Debug\net8.0\refint\AdventureGame.dll
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\obj\Debug\net8.0\AdventureGame.pdb
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\obj\Debug\net8.0\AdventureGame.genruntimeconfig.cache
+C:\Users\faisa\Documents\Projects\ConsoleProjects\AdventureGame\AdventureGame\obj\Debug\net8.0\ref\AdventureGame.dll
